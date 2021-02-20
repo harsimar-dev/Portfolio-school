@@ -1,0 +1,75 @@
+.i1{
+  width: 250px;
+  height:150px;
+
+
+}
+
+.btn1{
+  font-size: 40px;
+  font-weight: bolder;
+  text-decoration: none;
+  color: black;
+  margin: 20px;
+
+
+
+}
+
+.f1{
+  padding: 20px;
+}
+
+.p1{
+ margin: 10px;
+}
+
+.recipes{
+  width: 90%;
+  height:300px;
+  padding-top: 30px;
+  margin: auto;
+
+}
+
+
+
+.box1{
+  width: 95%;
+  height: 400px;
+  background-image: linear-gradient(blue,purple);
+  margin:auto;
+  border-radius: 10px;
+}
+
+.bt1{
+  position: relative;
+  left: 25%;
+  top: 60%;
+  display: block;
+  width: 600px;
+
+
+
+
+}
+
+
+.box2{
+
+  width: 95%;
+  height: 600px;
+
+  margin: auto;
+  margin-top: 10px;
+  border-radius: 10px;
+  background-image: url(veg6.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bt2{
+  position: relative;
+  top:10%;
+  left: 2%;
+}
